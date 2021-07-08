@@ -3,7 +3,7 @@
 
 ### Product template for the Well Coffeehouse with custom dropdown and brew guide button.
 
-[Video Tutorial!](https://drive.google.com/file/d/1hf9QHHjxU-6or_dhhufNP6sB5-YQhFq7/view?usp=sharing)
+## [Video Tutorial!](https://drive.google.com/file/d/1hf9QHHjxU-6or_dhhufNP6sB5-YQhFq7/view?usp=sharing)
 
 To use: 
 1. Copy this code. 
