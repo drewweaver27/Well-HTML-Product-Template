@@ -80,3 +80,8 @@ To use:
   </div>
 </div>
 ```
+
+### Color Coded example from above (Brazil Red)
+![image](https://user-images.githubusercontent.com/24489555/124986287-75c36800-e009-11eb-884b-8876f33e7ade.png)
+
+
