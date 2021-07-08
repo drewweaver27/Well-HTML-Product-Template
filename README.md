@@ -7,7 +7,7 @@
 To use: 
 1. Copy this code. 
 2. Place appropriate data on each line AFTER the `</strong>` and before the `<p>` 
-Ex: `<p><strong>Roast: </strong>Dark Roast</p>`
+      - Ex: `<p><strong>Roast: </strong>Dark Roast</p>`
 4. Remove any `<p>`'s that are not necessary
 5. IF the extra product info is not needed, delete from `<div class="extra-product-info">` down to the bottom of the file. Take care not to delete the `<div>` for the brew guides button! 
 6. Make sure to use the "code mode" on the product info section on Shopify. On the description box, click the "Edit HTML" button on the right side (Has this symbol <>)
