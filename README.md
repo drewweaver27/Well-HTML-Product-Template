@@ -44,7 +44,7 @@ To use:
 
 ```
 
-### Example with data filled in, missing fields, and no extra coffee details (Coffee: Blue Note Blend)
+### Example with data filled in, missing fields, and NO extra coffee details (Coffee: Blue Note Blend)
 ```
 <p><strong>Description: </strong> Our house blend and a favorite among our regulars, this versatile coffee is great brewed your favorite way. We love it on v60, espresso and brewed coffee.</p>
 <p><strong>Roast: </strong>A medium roast blend of Natural Ethiopian and Washed Central American coffees</p>
@@ -53,7 +53,7 @@ To use:
 <div class="product_brew-guides"><a href="https://well-coffeehouse.myshopify.com/blogs/brew-guides"> <i class="fas fa-coffee"></i> Brew Guides</a></div>
 ```
 
-### Example with data filled in and some missing fields (Coffee: Brazil - São Jose, Anaerobic Red Honey)
+### Example with data filled in, missing fields and extra coffee details (Coffee: Brazil - São Jose, Anaerobic Red Honey)
 
 ```
 <p><strong>Description: </strong>Although 40% of the world's coffee comes from Brazil, this coffee from Marcos Antonio
