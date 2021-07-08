@@ -33,7 +33,7 @@ To use:
       <p><strong>Subregion/Town: </strong></p>
       <p><strong>Farm/Coop/Station: </strong></p>
       <p><strong>Farm Size: </strong></p>
-      <p><strong>Area Under Coffee :</strong></p>
+      <p><strong>Area Under Coffee: </strong></p>
       <p><strong>Harvest Months: </strong></p>
       <p><strong>Owner: </strong></p>
       <p><strong>Farmer: </strong></p>
