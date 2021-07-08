@@ -1,4 +1,4 @@
-# Well-HTML-Product-Template
+# Well Coffeehouse-HTML Product Template
 
 
 ### Product template for the Well Coffeehouse with custom dropdown and brew guide button.
